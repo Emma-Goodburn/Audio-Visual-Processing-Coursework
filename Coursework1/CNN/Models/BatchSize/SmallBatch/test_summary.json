@@ -1,0 +1,12 @@
+{
+  "test_loss": 0.9092480061110109,
+  "accuracy": 77.5,
+  "correct": 124,
+  "total": 160,
+  "changes": {
+    "BATCH_SIZE": {
+      "old": 16,
+      "new": 8
+    }
+  }
+}

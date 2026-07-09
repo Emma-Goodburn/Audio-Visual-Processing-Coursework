@@ -1,0 +1,12 @@
+{
+  "test_loss": 0.6166116714477539,
+  "accuracy": 81.875,
+  "correct": 131,
+  "total": 160,
+  "changes": {
+    "HIDDEN_UNITS": {
+      "old": 32,
+      "new": 64
+    }
+  }
+}

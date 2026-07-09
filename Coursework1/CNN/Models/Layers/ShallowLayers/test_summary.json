@@ -1,0 +1,12 @@
+{
+  "test_loss": 1.290445226430893,
+  "accuracy": 61.875,
+  "correct": 99,
+  "total": 160,
+  "changes": {
+    "NUM_LAYERS": {
+      "old": 3,
+      "new": 2
+    }
+  }
+}

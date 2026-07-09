@@ -1,0 +1,12 @@
+{
+  "test_loss": 1.270345401763916,
+  "accuracy": 76.875,
+  "correct": 123,
+  "total": 160,
+  "changes": {
+    "DCTCount": {
+      "old": "13",
+      "new": "14"
+    }
+  }
+}

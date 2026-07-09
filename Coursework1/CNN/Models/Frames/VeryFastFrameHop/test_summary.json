@@ -1,0 +1,12 @@
+{
+  "test_loss": 2.6361294746398927,
+  "accuracy": 18.125,
+  "correct": 29,
+  "total": 160,
+  "changes": {
+    "frameStep": {
+      "old": "100ms (default)",
+      "new": "5ms"
+    }
+  }
+}

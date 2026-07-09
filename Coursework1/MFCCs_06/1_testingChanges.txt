@@ -1,0 +1,3 @@
+frameLength: default
+frameStep: default
+DCTCount: 12

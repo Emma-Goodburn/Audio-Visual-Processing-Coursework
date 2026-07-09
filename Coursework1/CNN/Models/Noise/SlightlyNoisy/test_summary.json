@@ -1,0 +1,16 @@
+{
+  "test_loss": 1.5558603048324584,
+  "accuracy": 51.875,
+  "correct": 83,
+  "total": 160,
+  "changes": {
+    "ADD_NOISE": {
+      "old": false,
+      "new": true
+    },
+    "SNR_DB": {
+      "old": 10,
+      "new": 15
+    }
+  }
+}

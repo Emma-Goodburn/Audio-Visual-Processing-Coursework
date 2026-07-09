@@ -1,0 +1,2 @@
+frameLength: 50ms
+frameStep: default
